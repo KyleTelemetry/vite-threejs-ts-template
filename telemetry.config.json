@@ -1,0 +1,9 @@
+{
+    "name": "threejs",
+    "version": "0.0.1",
+    "description": "Three.js Vite Template",
+    "mountPoints": {
+      "rootRender": "/"
+    },
+    "singlePageApplicationRouting": true
+  }
