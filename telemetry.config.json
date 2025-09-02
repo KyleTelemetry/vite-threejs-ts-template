@@ -1,5 +1,5 @@
 {
-    "name": "threejs",
+    "name": "threejsexample",
     "version": "0.0.2",
     "description": "Three.js Vite Template",
     "mountPoints": {
